@@ -1,10 +1,11 @@
 <div align="center">
   <img src="audiogram_banner.png" alt="Audiogram Banner" width="600"/>
+  <h1>audiogram v0.0.1</h1>
+  <p>
+    <img src="logo.svg" alt="Audiogram Logo" width="40" style="vertical-align: middle;"/>
+    A web application that analyzes music to visualize how different musical elements might activate regions of the brain.
+  </p>
 </div>
-
-# audiogram v0.0.1
-
-A web application that analyzes music to visualize how different musical elements might activate regions of the brain.
 
 ## Requirements
 
@@ -36,7 +37,7 @@ A web application that analyzes music to visualize how different musical element
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/audiogram.git
+   git clone https://github.com/fizt656/audiogram.git
    cd audiogram
    ```
 
@@ -49,7 +50,7 @@ A web application that analyzes music to visualize how different musical element
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/audiogram.git
+   git clone https://github.com/fizt656/audiogram.git
    cd audiogram
    ```
 
@@ -99,6 +100,17 @@ run.bat
    ```
 
 3. Open your browser to `http://localhost:3000`
+
+## Screenshots
+
+### Main Interface
+<img src="main screen.png" alt="Main Interface" width="800"/>
+
+### Brain Visualization
+<img src="brain visualization.png" alt="Brain Visualization" width="800"/>
+
+### Emotion Analysis Results
+<img src="emotion results.png" alt="Emotion Analysis Results" width="800"/>
 
 ## Technical Details
 
