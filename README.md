@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="audiogram_banner.png" alt="Audiogram Banner" width="600"/>
+</div>
+
 # audiogram v0.0.1
 
 A web application that analyzes music to visualize how different musical elements might activate regions of the brain.
