@@ -1,0 +1,138 @@
+{
+  "nucleus_accumbens": {
+    "name": "Nucleus Accumbens",
+    "description": "Part of the reward circuit, associated with pleasure, motivation, and emotional responses to music.",
+    "functions": ["Reward processing", "Pleasure response", "Addiction mechanisms"],
+    "music_relation": "Activates during pleasurable music listening, especially during musical chills or frisson.",
+    "emotions": ["happy", "energetic"],
+    "coordinates": {"x": [10, -10], "y": [12], "z": [-8]}
+  },
+  "ventral_tegmental_area": {
+    "name": "Ventral Tegmental Area",
+    "description": "A group of neurons located in the midbrain, central to the reward circuit.",
+    "functions": ["Dopamine production", "Reward signaling", "Motivation"],
+    "music_relation": "Releases dopamine during pleasurable music experiences, contributing to the emotional impact of music.",
+    "emotions": ["happy", "energetic"],
+    "coordinates": {"x": [0], "y": [-16], "z": [-12]}
+  },
+  "orbitofrontal_cortex": {
+    "name": "Orbitofrontal Cortex",
+    "description": "Part of the prefrontal cortex located at the base of the frontal lobe, involved in decision-making.",
+    "functions": ["Decision making", "Reward evaluation", "Emotional regulation"],
+    "music_relation": "Helps process the emotional value of music and contributes to aesthetic judgments.",
+    "emotions": ["happy", "calm"],
+    "coordinates": {"x": [25, -25], "y": [30], "z": [-12]}
+  },
+  "amygdala": {
+    "name": "Amygdala",
+    "description": "Almond-shaped structure involved in emotional processing, particularly fear and other intense emotions.",
+    "functions": ["Emotional processing", "Fear conditioning", "Emotional memory"],
+    "music_relation": "Responds to emotionally intense music, particularly sad or scary passages.",
+    "emotions": ["sad", "tense"],
+    "coordinates": {"x": [23, -23], "y": [-5], "z": [-15]}
+  },
+  "hippocampus": {
+    "name": "Hippocampus",
+    "description": "Seahorse-shaped structure crucial for memory formation and spatial navigation.",
+    "functions": ["Memory formation", "Spatial navigation", "Contextual associations"],
+    "music_relation": "Involved in musical memory and recognition of familiar songs.",
+    "emotions": ["sad", "calm"],
+    "coordinates": {"x": [30, -30], "y": [-20], "z": [-10]}
+  },
+  "anterior_cingulate_cortex": {
+    "name": "Anterior Cingulate Cortex",
+    "description": "Part of the limbic system involved in emotion regulation, decision-making, and empathy.",
+    "functions": ["Emotional regulation", "Attention control", "Error detection"],
+    "music_relation": "Processes emotional aspects of music and helps regulate emotional responses.",
+    "emotions": ["sad", "calm"],
+    "coordinates": {"x": [0], "y": [30], "z": [20]}
+  },
+  "prefrontal_cortex": {
+    "name": "Prefrontal Cortex",
+    "description": "Forward-most part of the frontal lobe, involved in complex cognitive functions.",
+    "functions": ["Executive function", "Decision making", "Emotional regulation"],
+    "music_relation": "Processes musical structure, anticipation, and complex musical patterns.",
+    "emotions": ["calm"],
+    "coordinates": {"x": [35, -35], "y": [45], "z": [25]}
+  },
+  "insula": {
+    "name": "Insula",
+    "description": "Located deep within the cerebral cortex, involved in consciousness and emotion regulation.",
+    "functions": ["Interoception", "Emotional awareness", "Social emotions"],
+    "music_relation": "Processes the visceral, physical responses to music, such as chills or 'feeling the beat'.",
+    "emotions": ["calm"],
+    "coordinates": {"x": [40, -40], "y": [5], "z": [5]}
+  },
+  "motor_cortex": {
+    "name": "Motor Cortex",
+    "description": "Region of the cerebral cortex involved in planning, control, and execution of voluntary movements.",
+    "functions": ["Movement control", "Motor learning", "Rhythm processing"],
+    "music_relation": "Activates when listening to rhythmic music, even without movement, and is central to dancing to music.",
+    "emotions": ["energetic"],
+    "coordinates": {"x": [30, -30], "y": [-15], "z": [55]}
+  },
+  "supplementary_motor_area": {
+    "name": "Supplementary Motor Area",
+    "description": "Part of the premotor cortex, involved in the planning of complex movements.",
+    "functions": ["Movement planning", "Sequence learning", "Rhythm processing"],
+    "music_relation": "Crucial for processing musical rhythm and beat perception.",
+    "emotions": ["energetic"],
+    "coordinates": {"x": [5, -5], "y": [0], "z": [60]}
+  },
+  "basal_ganglia": {
+    "name": "Basal Ganglia",
+    "description": "Group of subcortical nuclei involved in motor control, procedural learning, and emotion.",
+    "functions": ["Motor control", "Habit formation", "Reward processing"],
+    "music_relation": "Important for rhythm perception and beat-based timing in music.",
+    "emotions": ["energetic"],
+    "coordinates": {"x": [15, -15], "y": [5], "z": [5]}
+  },
+  "cerebellum": {
+    "name": "Cerebellum",
+    "description": "Structure at the back of the brain involved in motor coordination and certain cognitive functions.",
+    "functions": ["Motor coordination", "Timing", "Certain cognitive functions"],
+    "music_relation": "Involved in timing aspects of music and rhythmic processing.",
+    "emotions": ["energetic"],
+    "coordinates": {"x": [25, -25], "y": [-60], "z": [-30]}
+  },
+  "hypothalamus": {
+    "name": "Hypothalamus",
+    "description": "Small region at the base of the brain, crucial for many bodily functions and emotional states.",
+    "functions": ["Homeostasis", "Hormone regulation", "Emotional states"],
+    "music_relation": "Involved in the physiological responses to emotionally charged music.",
+    "emotions": ["tense"],
+    "coordinates": {"x": [0], "y": [-5], "z": [-10]}
+  },
+  "periaqueductal_gray": {
+    "name": "Periaqueductal Gray",
+    "description": "Area of gray matter surrounding the cerebral aqueduct within the midbrain, involved in pain modulation and defensive behavior.",
+    "functions": ["Pain modulation", "Fear response", "Vocalization"],
+    "music_relation": "May be involved in the emotional intensity of music, particularly in fear or awe responses.",
+    "emotions": ["tense"],
+    "coordinates": {"x": [0], "y": [-30], "z": [-10]}
+  },
+  "anterior_insula": {
+    "name": "Anterior Insula",
+    "description": "Forward part of the insula, involved in emotional awareness and social emotions.",
+    "functions": ["Emotional awareness", "Empathy", "Risk processing"],
+    "music_relation": "Processes the emotional intensity of music and contributes to the feeling of being moved by music.",
+    "emotions": ["tense"],
+    "coordinates": {"x": [35, -35], "y": [15], "z": [5]}
+  },
+  "auditory_cortex": {
+    "name": "Auditory Cortex",
+    "description": "Region of the temporal lobe that processes auditory information.",
+    "functions": ["Sound processing", "Pitch discrimination", "Auditory pattern recognition"],
+    "music_relation": "Primary region for processing musical sounds, including pitch, timbre, and melody.",
+    "emotions": ["all"],
+    "coordinates": {"x": [50, -50], "y": [-20], "z": [5]}
+  },
+  "superior_temporal_gyrus": {
+    "name": "Superior Temporal Gyrus",
+    "description": "Gyrus of the temporal lobe that includes the primary auditory cortex.",
+    "functions": ["Auditory processing", "Language comprehension", "Music perception"],
+    "music_relation": "Crucial for processing complex musical features and structures.",
+    "emotions": ["all"],
+    "coordinates": {"x": [55, -55], "y": [-10], "z": [0]}
+  }
+}
