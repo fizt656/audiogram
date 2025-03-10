@@ -2,7 +2,6 @@
   <img src="audiogram_banner.png" alt="Audiogram Banner" width="600"/>
   <h1>audiogram v0.0.1</h1>
   <p>
-    <img src="logo.svg" alt="Audiogram Logo" width="40" style="vertical-align: middle;"/>
     A web application that analyzes music to visualize how different musical elements might activate regions of the brain.
   </p>
 </div>
